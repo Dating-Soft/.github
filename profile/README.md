@@ -2,6 +2,10 @@
 
 TRELLO:
 https://trello.com/b/o5g516bz/ofafk-tech
+
+Project Manager:
+https://t.me/softwareLuxe
+
 <!--
 
 **Here are some ideas to get you started:**
